@@ -1,7 +1,7 @@
 # finpy-tse
 A Python Module to Access Tehran Stock Exchange Historical and Real-Time Data 
 
-![plot](cover_image.jpg)
+![plot](cover_image.png)
 
 Module Support Group: https://t.me/FinPyGroup 
 
